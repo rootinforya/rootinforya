@@ -1,16 +1,31 @@
-## Hi there 👋
+## welcome :3
 
-<!--
-**rootinforya/rootinforya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Informations:
+```html
+* Pronouns: he/him
+* Currently in High School Jean-Moulin
+* Hobbies:
+  | Cooking
+  | Doing the funny
+* Known languages:
+  | C#
+  | Python
+  | A bit of C++/HTML/CSS
+* Other languages:
+  | French
+  | English, as English is not my mother tongue I do, therefore, apologize for any mistake I may made
+* OS:
+  | Windows 11
+  | Linux > Ubuntu
+* IDE:
+  | VSCode
+  | Visual Studio
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Objectives:
+```html
+* Aiming for preparatory classes in:
+  | Computer Science
+  | Mathematics
+* Looking to learn more about the theory of programming
+```
