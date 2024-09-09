@@ -13,7 +13,7 @@
   | A bit of C++/HTML/CSS
 * Other languages:
   | French
-  | English, as English is not my mother tongue I, therefore, apologize for any mistake I may make
+  | English, as it is not my mother tongue I, therefore, apologize for any mistake I may make
 * OS:
   | Windows 11
   | Linux > Ubuntu
